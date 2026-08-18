@@ -1,6 +1,6 @@
 # 💬 Chatbot template
 
-A simple Streamlit app that shows how to build a chatbot using OpenAI's GPT-3.5.
+A simple Streamlit app that shows how to build a chatbot using Gemini's 3.6 model.
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chatbot-template.streamlit.app/)
 
